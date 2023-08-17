@@ -1,4 +1,4 @@
-# Pixel Adventure
+# Adventure Game
 
 A 2D Pixel Art Platformer coded in Flutter and Flame
 
