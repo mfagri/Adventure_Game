@@ -1,9 +1,21 @@
-# Adventure Game
+## 0- show openads
+```dart
+g_ads.openAdsInstance.showAdIfAvailableOpenAds();
+```
 
-A 2D Pixel Art Platformer coded in Flutter and Flame
+## 1- banner (widget)
+```dart
+CustomBanner(key: UniqueKey(), ads: gAds.bannerInstance)
+```
 
-📺 Tutorial Playlist <https://www.youtube.com/playlist?list=PLRRATgFqhVCh8qD7xmaSbwG1vfaCddvCM>
+## 2- show interstitial
+```dart
+gAds.interInstance.showInterstitialAd();
+```
 
-🖼️ Asset pack from <https://pixelfrog-assets.itch.io/pixel-adventure-1>
-
-![Pixel Adventure](https://i.ytimg.com/vi/Kwn1eHZP3C4/maxresdefault.jpg)
+## 3- show rewarded
+```dart
+gAds.rewardInstance.showRewardAd(() {
+  // when user rewarded
+});
+```
