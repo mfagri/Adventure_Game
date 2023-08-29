@@ -40,7 +40,7 @@ dependencies:
   fl_toast: ^3.1.0
   http: ^0.13.4
   multi_ads:
-    path: ../multi_ads_v3
+    path: ../multi_ads
 
 dev_dependencies:
   flutter_test:

@@ -1,0 +1,284 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "applovin_max",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/applovin_max-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/archive-3.3.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/collection-1.17.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "facebook_audience_network",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/facebook_audience_network-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fl_toast",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/fl_toast-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flame",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/flame-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flame_tiled",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/flame_tiled-1.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/ahammam/FlutterDev/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_ironsource_x",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/flutter_ironsource_x-2.7.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/flutter_lints-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_staggered_grid_view",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/flutter_staggered_grid_view-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/ahammam/FlutterDev/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "google_mobile_ads",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/google_mobile_ads-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/matcher-0.12.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "multi_ads",
+      "rootUri": "../../multi_ads",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "ordered_set",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/ordered_set-5.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/pointycastle-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/ahammam/FlutterDev/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/test_api-0.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "tiled",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/tiled-0.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/ahammam/.pub-cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "pixel_adventure",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-08-29T13:17:00.406454Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.6"
+}
